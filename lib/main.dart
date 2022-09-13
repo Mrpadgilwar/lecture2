@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:lecture1/Newwork1.dart';
+import 'package:lecture1/settingui.dart';
+import 'package:lecture1/uihome.dart';
 
+import 'Flutter_project/Login.dart';
 import 'Homework.dart';
 import 'Homework2.dart';
 import 'Registrationform.dart';
@@ -9,18 +12,22 @@ import 'RestaurantUi.dart';
 import 'Screens/Whatsaap/Lesson3.dart';
 import 'Screens/Whatsaap/whatsappScreen.dart';
 import 'UiFlipkart.dart';
+import 'homepage.dart';
 
      void main() {
        runApp(
-         MaterialApp(debugShowCheckedModeBanner: false,
+          MaterialApp(debugShowCheckedModeBanner: false,
             home: //RastaurantUi(),
-           WhatsUp(),
 
+          // WhatsUp(),
+         //   const Home(),
+           // settingui(),
               // Homework()
             //Homework2(),
              //  Newwork1(),
            // Registration(),
             //Lecture3(),
+            Login(),
       ),
        );
 }

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "71946310752",
+    "project_id": "shaurya-6917c",
+    "storage_bucket": "shaurya-6917c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71946310752:android:09320d6855529a34f49f05",
+        "android_client_info": {
+          "package_name": "com.example.databasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71946310752-nanagqhj1hvgsqhqbmaof2ml8bji1kqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYvVn2q60S0Y1eA4kFWYPHwGRZ35OQ3YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71946310752-nanagqhj1hvgsqhqbmaof2ml8bji1kqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
